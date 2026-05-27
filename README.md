@@ -48,6 +48,7 @@ From beginner-friendly mini projects to more advanced ideas, this repo is my cod
 🤖 Beginner AI Projects  
 📂 File Handling Projects  
 🌐 API Based Projects  
+There is more coming ...
 
 ---
 
