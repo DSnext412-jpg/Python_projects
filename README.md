@@ -47,7 +47,8 @@ From beginner-friendly mini projects to more advanced ideas, this repo is my cod
 🔐 Utility Tools  
 🤖 Beginner AI Projects  
 📂 File Handling Projects  
-🌐 API Based Projects  
+🌐 API Based Projects
+🤖 basic jarvis
 There is more coming ...
 
 ---
